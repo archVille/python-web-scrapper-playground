@@ -1,7 +1,8 @@
 - Create Vm environment
 python -m venv env
 
-- env\Scripts\Activate
+- Enter the environment:
+env\Scripts\Activate
 
 - Install Selenium
 pip install Selenium
